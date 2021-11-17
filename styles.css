@@ -301,6 +301,7 @@
 .main__content h1 {
     font-size: 3rem;
     background-color: #fe3b6f;
+    text-align: center;
     background-image: linear-gradient(to top, #ff087b 0%, #ed1a52 100%);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -335,6 +336,7 @@
     margin-top: 1rem;
     font-size: 1.5 rem;
     font-weight: 700;
+    text-align: center;
 }
 
 .main__btn {
@@ -395,7 +397,7 @@
     background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
 }
 
-.fa-layer-group,
+.fa-chart-line,
 .fa-users {
     font-size: 14rem;
 }
